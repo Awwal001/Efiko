@@ -1,0 +1,22 @@
+.Result {
+    margin: 18px auto;
+    width: 90%;
+    text-align: center;
+    box-shadow: 0 2px 3px #ccc;
+    border: 1px solid #eee;
+    padding: 10px;
+    box-sizing: border-box;
+	background-color: #eee;
+}
+
+@media (min-width: 600px) {
+    .Result {
+        width: 600px;
+    }
+}
+
+.Table{
+	width: 90%;
+    text-align: center;
+	
+}
