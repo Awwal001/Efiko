@@ -1,0 +1,14 @@
+.Content {
+    
+	background: #283BA7;
+    background: -webkit-linear-gradient(top left, #283BA7, #DD14C4);
+    background: -moz-linear-gradient(top left, #283BA7, #DD14C4);
+    background: linear-gradient(to bottom right, #283BA7, #DD14C4);
+    opacity: 0.6;
+    height: 105vh;
+}
+
+.Banner{
+    background-position-x: center;
+}
+
